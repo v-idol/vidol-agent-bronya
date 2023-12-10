@@ -4,14 +4,17 @@
   "private": false,
   "description": "Vidol Agent Bronya",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "pub": "npm publish --registry https://registry.npmjs.org"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
     "avatar.jpg",
     "cover.jpg",
     "model.vrm"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "author": "rdmclin2@163.com",
   "license": "MIT"
 }
