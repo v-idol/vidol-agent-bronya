@@ -1,6 +1,7 @@
 {
   "name": "@v-idol/vidol-agent-bronya",
   "version": "1.0.0",
+  "private": false,
   "description": "Vidol Agent Bronya",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,6 +12,6 @@
     "cover.jpg",
     "model.vrm"
   ],
-  "author": "rdmclin2@gmail.com",
+  "author": "rdmclin2@163.com",
   "license": "MIT"
 }
