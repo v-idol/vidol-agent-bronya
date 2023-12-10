@@ -1,0 +1,15 @@
+{
+  "name": "vidol-agent-bronya",
+  "version": "1.0.0",
+  "description": "Vidol Agent Bronya",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "avatar.jpg",
+    "cover.jpg",
+    "model.vrm"
+  ],
+  "author": "rdmclin2@gmail.com",
+  "license": "MIT"
+}
