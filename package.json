@@ -1,5 +1,5 @@
 {
-  "name": "vidol-agent-bronya",
+  "name": "@v-idol/vidol-agent-bronya",
   "version": "1.0.0",
   "description": "Vidol Agent Bronya",
   "scripts": {
